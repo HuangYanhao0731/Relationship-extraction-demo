@@ -1,0 +1,1 @@
+{"tool":[{"name":"木支柱","types":["纵向支柱","斜向支柱","横向支柱","垫板"]},{"name":"木楔"},{"name":"垫木"},{"name":"双爪钉"},{"name":"损管尺","types":[{"name":"一端带有直角板"},{"name":"两端带有直角板"}]},{"name":"板锯"},{"name":"金属伸缩支柱","types":[{"name":"手柄式金属伸缩支柱"},{"name":"手动棘轮式金属伸缩支柱"},{"name":"快速铝合金伸缩支柱"}]}],"position":[],"person_name":[],"time":[],"organization":[],"value":[],"attributes":[],"others":[]}
